@@ -1,5 +1,7 @@
 # DocSearch configurations
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
 This is the repository hosting the public [DocSearch](https://community.algolia.com/docsearch/) configurations.
 
 **Update** You can check [the DocSearch dedicated documentation website](https://community.algolia.com/docsearch/documentation/docsearch-scraper/config-options/)
